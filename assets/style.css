@@ -1,0 +1,79 @@
+* {
+  font-family: "Architects Daughter", cursive;
+  font-size: 20px;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./Img/revolt-geeZzrAXyMQ-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15%;
+}
+
+.title {
+  text-align: center;
+}
+
+#submit {
+  font-size: 150%;
+  margin-top: 10px;
+  background-color: aquamarine;
+}
+
+#submit:hover {
+  background-color: peru;
+}
+
+h1 {
+  font-weight: bolder;
+  padding-bottom: 20px;
+  font-size: 400%;
+}
+
+h3 {
+  font-weight: bolder;
+}
+
+.dropdown-form {
+  padding: 3%;
+}
+
+#dropdown {
+  width: 100%;
+}
+
+.mapcontainer {
+  display: flex;
+  justify-content: center;
+}
+
+#map {
+  border: black 2px solid;
+}
+
+form {
+  font-size: 150%;
+}
+
+footer {
+  margin-top: 10%;
+}
+
+p {
+  font-size: 80%;
+}
