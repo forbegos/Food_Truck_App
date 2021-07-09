@@ -17,10 +17,9 @@ The installation simply requires opening a webpage.
 
 ## Usage
 
-   https://rgeisreiter.github.io/FoodTruckLocator/
+https://rgeisreiter.github.io/FoodTruckLocator/
 
 ![](./assets/Img/landing.PNG)
-
 
 ![](./assets/Img/results.PNG)
 
@@ -28,16 +27,19 @@ When the user visits the site, they are presented with an option to select their
 
 ## Important - Read Before Launching the Application
 
-Because of the API security setup, we are using a proxy server to pull the data from the source.  This can cause an error When you run the site for the first time, because the proxy server requires permission for use.  The site to request permission for use is presented in the console with the error. All that is needed is to access the URL shown and request and click on the button to request use permission.  With that, the application should run without any errors upon refresh.
+Because of the API security setup, we are using a proxy server to pull the data from the source. This can cause an error When you run the site for the first time, because the proxy server requires permission for use. The site to request permission for use is presented in the console with the error. All that is needed is to access the URL shown and request and click on the button to request use permission. With that, the application should run without any errors upon refresh.
 
-## Credits
-
-1. Fernando de Orbegoso - https://github.com/forbegos
-2. Lisa Barton - https://github.com/lisabarton23
-3. Taylor Smith - https://github.com/tbsmith0205
-4. Ryan Geisreiter - https://github.com/rgeisreiter
-
-Two APIs used:
+## APIs used:
 
 1. https://cors-anywhere.herokuapp.com/http://data.streetfoodapp.com/1.1/regions/
 2. https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js
+
+## License
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
