@@ -53,10 +53,10 @@ submitEl.addEventListener("click", function (e) {
   location.assign(searchHTML);
 });
 
-for (var i = 0; i < arrayCity.length; i++) {
-  var city = arrayCity[i];
-  var li = document.createElement("li");
-  li.textContent = city;
-  li.setAttribute("data-index", i);
-  search.appendChild(li);
-}
+// for (var i = 0; i < arrayCity.length; i++) {
+//   var city = arrayCity[i];
+//   var li = document.createElement("li");
+//   li.textContent = city;
+//   li.setAttribute("data-index", i);
+//   search.appendChild(li);
+// }

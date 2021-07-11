@@ -22,7 +22,6 @@ Link to application -> https://forbegos.github.io/Food_Truck_App/
 ![](./assets/Img/landing.PNG)
 
 ![](./assets/Img/results.PNG)
-
 When the user visits the site, they are presented with an option to select their city of choice. Upon doing so, they are redirected to another page where a food truck list for the selected city will be displayed along with the option display the location of the food truck in a map.
 
 ## APIs used:
