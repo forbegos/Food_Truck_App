@@ -13,7 +13,9 @@ We are motivated by our love of food!. We love to eat the delicious food from fo
 
 ## Important - Read Before Launching the Application
 
-Because of the API security setup, we are using a proxy server to pull the data from the source. This can cause an error When you run the site for the first time, because the proxy server requires permission for use. The site to request permission for use is presented in the console with the error. All that is needed is to access the URL shown and request and click on the button to request use permission. With that, the application should run without any errors upon refresh.
+Because of the API security setup, we are using a proxy server to pull the data from the source. This can cause an error When you run the site for the first time, because the proxy server requires permission for use. The site to request permission for use is presented in the console with the error. All that is needed is to access the URL below and request use permission to access the demo server. With that, the application should run without any errors upon refresh.
+
+https://cors-anywhere.herokuapp.com/corsdemo
 
 ## Usage
 
